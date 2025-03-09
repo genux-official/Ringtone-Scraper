@@ -1,0 +1,28 @@
+{
+  "name": "@genuxofficial/ringtone",
+  "version": "1.0.0",
+  "description": "Free Ringtones - Download for Android & iPhone - MeloBoom",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genux-official/Ringtone-Scraper.git"
+  },
+  "keywords": [
+    "ringtone-scraper",
+    "android",
+    "iphone"
+  ],
+  "author": "Genux Official",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/genux-official/Ringtone-Scraper/issues"
+  },
+  "homepage": "https://github.com/genux-official/Ringtone-Scraper#readme",
+  "dependencies": {
+    "axios": "^1.8.2",
+    "cheerio": "^1.0.0"
+  }
+}
